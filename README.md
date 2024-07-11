@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavisha Gimhani</h1>
-<h3 align="center">A passionate IT enthusiast Undergraduate from Sri Lanka</h3>
+<h3 align="center">A passionate Data science enthusiast Undergraduate from Sri Lanka</h3>
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=KavishaGimhani&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavishaGimhani&theme=tokyonight) |
 | --- | --- |
